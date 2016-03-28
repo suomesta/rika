@@ -11,7 +11,7 @@ import os
 from contextlib import contextmanager
 import rika
 
-__author__ = 'T.Oda FEC'
+__author__ = 'suomesta'
 __version__ = '1.1.0'
 
 

@@ -4,7 +4,7 @@
 Defines some utility functions.
 """
 
-__author__ = 'T.Oda FEC'
+__author__ = 'suomesta'
 __version__ = '1.0.0'
 
 import collections.abc

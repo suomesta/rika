@@ -17,7 +17,7 @@ _SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 sys.path.append(os.path.join(_SCRIPT_DIR, '..', '..'))
 import rika.hashsum
 
-__author__ = 'T.Oda FEC'
+__author__ = 'suomesta'
 __version__ = '1.0.0'
 
 _PNG = os.path.join('data', 'hashsum', 'python-logo-master-v3-TM.png')
