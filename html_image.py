@@ -2,11 +2,13 @@
 
 create_table() converts RGB data into HTML table string.
 create_canvas() converts RGBA data into HTML canvas string.
-
 create_table_by_pil() is wrapper of create_table(), it converts image file
 name into HTML table string using PIL.
 create_canvas_by_pil() is wrapper of create_canvas(), it converts image file
 name into HTML canvas string using PIL.
+
+You can try with,
+$python html_image.py imagename --id canvas_id > sample.html
 """
 
 from itertools import islice
